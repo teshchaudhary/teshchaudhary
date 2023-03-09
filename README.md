@@ -2,7 +2,6 @@
 - 🐍 A Python Programmer, always ready to learn new things
 - 🌱 Currently upskilling in Data Analysis and Machine Learning
 - 👯 I’m looking to make contributions and get some hands-on experience
-- 💬 Ask me about ...
 
 - 📫 How to Contact Me:
    - :e-mail: [E-Mail](chaudharytesh@gmail.com)
