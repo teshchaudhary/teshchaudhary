@@ -5,7 +5,7 @@
 
 - 📫 How to Contact Me:
    - :e-mail: [E-Mail](chaudharytesh@gmail.com)
-   - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
+   - :office: [LinkedIn](https://www.linkedin.com/in/tesh-chaudhary-ab56b0202/)
 
 [![Tesh's github stats](https://github-readme-stats.vercel.app/api?username=teshchaudhary&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/teshchaudhary/github-readme-stats)
 
