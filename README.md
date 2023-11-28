@@ -7,11 +7,6 @@
    - :e-mail: [E-Mail](chaudharytesh@gmail.com)
    - :office: [LinkedIn](https://www.linkedin.com/in/tesh-chaudhary-ab56b0202/)
 
-[![Tesh's github stats](https://github-readme-stats.vercel.app/api?username=teshchaudhary&count_private=true&show_icons=true&theme=radical&hide_rank=true)](https://github.com/teshchaudhary/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teshchaudhary)](https://github.com/teshchaudhary/github-readme-stats)
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=teshchaudhary&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=teshchaudhary&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teshchaudhary&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
