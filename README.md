@@ -1,55 +1,116 @@
-### Hi there 👋
 
-I am an experienced and detail-oriented Software Developer with a broad skill set in data engineering, and backend development. Here’s a bit more about me:
+<div align="center">
 
-- 🌐 **Data Engineering**: I specialize in building scalable, secure, and efficient data pipelines using **AWS** platform: AWS Glue, S3, Lambda, Athena, and Redshift and **Databricks**. My experience includes developing robust ETL workflows, optimizing data lake architectures, and enabling real-time and batch data processing for analytics and reporting.
+# Hi there, I'm Tesh Chaudhary 👋
 
-- 🛠 **Backend Development**: With hands-on expertise in Python, Node.js, and Express.js, I’ve engineered RESTful APIs and microservices that power data-intensive applications. My projects often involve integrating with MongoDB, MySQL, and DynamoDB, ensuring performance, scalability, and maintainability.
+**Data Engineer | Backend Developer | Cloud Architect in Progress**
 
-- 📫 How to Contact Me:
-   - 📧 [Email](mailto:chaudharytesh@gmail.com)
-   - 💼 [LinkedIn](https://www.linkedin.com/in/tesh-chaudhary/)
-   - 💻 [GitHub](https://github.com/teshchaudhary)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tesh-chaudhary/)
+[![Twitter Follow](https://img.shields.io/badge/Follow-@tesh_chaudhary-grey?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/tesh_chaudhary)
 
-# 💻 Tech Stack:
 
-### **Infrastructure & Cloud**
-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-- ![AmazonRDS](https://img.shields.io/badge/Amazon%20RDS-4053D6?style=flat&logo=Amazon%20RDS&logoColor=white)
-- ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
-- ![Terraform](https://img.shields.io/badge/Terraform-20232A?style=flat&logo=terraform&logoColor=61DAFB)
-- ![Jenkins](https://img.shields.io/badge/Jenkins-121013?style=flat&logo=Jenkins&logoColor=red)
+</div>
 
-### **Databases**
-- ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=flat&logo=MySql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-- ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Data+Engineer;PySpark+Pipeline+Expert;FastAPI+Backend+Developer;DSA+Lover" alt="Typing SVG" />
+</p>
 
-### **Data Processing & Stream Processing**
-- ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-- ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat&logo=apachespark&logoColor=#E35A16)
-- ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=Databricks&logoColor=white)
 
-### **Application Development**
-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=Express&logoColor=%red)
-- ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=Python&logoColor=ffdd54)
+## 💡 About Me
 
-### **Containerization & CI/CD**
-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-- ![Gitlab](https://img.shields.io/badge/GitLab%20-white?style=flat&logo=gitlab&logoColor=fc6d26)
-- ![Jenkins](https://img.shields.io/badge/Jenkins-121013?style=flat&logo=Jenkins&logoColor=red)
+I'm a passionate and hands-on Software Developer focused on building scalable, resilient, and intelligent data systems. With an analytical mindset and 1000+ DSA problems under my belt, I bring both algorithmic rigor and production-level pragmatism to the table.
 
-### **API & Testing**
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### **Version Control**
-- ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
+🔍 **Strengths at a Glance**
 
-# 📊 GitHub Stats:
+* Efficient ETL pipelines using Spark, Glue, and SQLAlchemy
+* Real-time and batch data orchestration using AWS Lambda, S3, and Athena
+* Full-cycle backend API development and CI/CD via Docker and Jenkins
+* Solid DevOps practices with GitLab, Terraform, and observability tools
+
+## 🧰 Tech Toolbox
+
+<div align="center">
+
+### ☁️ **Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-20232A?style=for-the-badge\&logo=terraform\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-121013?style=for-the-badge\&logo=Jenkins\&logoColor=red)
+
+### 🗃 **Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge\&logo=MySql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge\&logo=Amazon%20DynamoDB\&logoColor=white)
+
+### 🔁 **Data Engineering & Processing**
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E35A16?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=Databricks\&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apache-kafka\&logoColor=white)
+![PyArrow](https://img.shields.io/badge/PyArrow-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
+### 🧩 **Backend Development**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=Python\&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge\&logo=express\&logoColor=white)
+
+### 📦 **Containerization & CI/CD**
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-fc6d26?style=for-the-badge\&logo=gitlab\&logoColor=white)
+
+### 🔬 **Tools & Testing**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge\&logo=git\&logoColor=white)
+
+</div>
+
+## 📐 Engineering Principles
+
+* **ETL as Code**: Modular, parameterized, and production-grade pipelines
+* **Cloud First**: Infrastructure as Code, autoscaling, and monitoring-first approach
+* **Data Integrity**: Schema validation, idempotency, and lineage tracking
+* **Clean Architecture**: Separation of concerns, observability, and extensibility
+* **CI/CD Driven**: GitOps and reproducibility with Docker and GitLab CI
+
+## 🧠 DSA & Algorithms
+
+I solve DSA problems daily to keep my problem-solving sharp.
+
+* 💻 [LeetCode](https://leetcode.com/u/tesh_chaudhary/)
+* 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/user/tesh/)
+
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teshchaudhary&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=teshchaudhary&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teshchaudhary&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=teshchaudhary&theme=dark&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teshchaudhary&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teshchaudhary&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Streak" /></a>
+</div>
 
 ---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tesh-chaudhary/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://x.com/tesh_chaudhary)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:chaudharytesh@gmail.com)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=teshchaudhary&label=Profile%20views&color=61DAFB&style=for-the-badge" alt="Profile Visitor Count" />
+</div>
