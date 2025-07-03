@@ -50,7 +50,6 @@ I'm a passionate and hands-on Software Developer focused on building scalable, r
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E35A16?style=for-the-badge\&logo=apachespark\&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=Databricks\&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apache-kafka\&logoColor=white)
-![PyArrow](https://img.shields.io/badge/PyArrow-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
 ### 🧩 **Backend Development**
 
