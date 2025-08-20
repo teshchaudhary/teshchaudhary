@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Data+Engineer;PySpark+Pipeline+Expert;FastAPI+Backend+Developer;DSA+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Backend+Developer;PySpark+Pipeline+Expert;Data+Engineer;" alt="Typing SVG" />
 </p>
 
 
