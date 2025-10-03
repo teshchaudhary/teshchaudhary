@@ -15,7 +15,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Backend+Developer;PySpark+Pipeline+Expert;Data+Engineer;" alt="Typing SVG" />
 </p>
 
-
+---
 ## 💡 About Me
 
 I'm a passionate and hands-on Software Developer focused on building scalable, resilient, and intelligent data systems. With an analytical mindset and 1000+ DSA problems under my belt, I bring both algorithmic rigor and production-level pragmatism to the table.
@@ -27,10 +27,17 @@ I'm a passionate and hands-on Software Developer focused on building scalable, r
 * Real-time and batch data orchestration using AWS Lambda, S3, and Athena
 * Full-cycle backend API development and CI/CD via Docker and Jenkins
 * Solid DevOps practices with GitLab, Terraform, and observability tools
-
+---
 ## 🧰 Tech Toolbox
 
 <div align="center">
+
+### 🧩 **Backend Development**
+![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+
 
 ### ☁️ **Cloud & Infrastructure**
 
@@ -51,13 +58,6 @@ I'm a passionate and hands-on Software Developer focused on building scalable, r
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=Databricks\&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apache-kafka\&logoColor=white)
 
-### 🧩 **Backend Development**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=Python\&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge\&logo=express\&logoColor=white)
-
 ### 📦 **Containerization & CI/CD**
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
@@ -70,14 +70,17 @@ I'm a passionate and hands-on Software Developer focused on building scalable, r
 
 </div>
 
+---
+
 ## 📐 Engineering Principles
 
-* **ETL as Code**: Modular, parameterized, and production-grade pipelines
-* **Cloud First**: Infrastructure as Code, autoscaling, and monitoring-first approach
-* **Data Integrity**: Schema validation, idempotency, and lineage tracking
-* **Clean Architecture**: Separation of concerns, observability, and extensibility
-* **CI/CD Driven**: GitOps and reproducibility with Docker and GitLab CI
-
+* **Scalable Backend Architecture** – Microservices, modular code, and clear separation of concerns.
+* **API-First Design** – RESTful and GraphQL APIs with proper versioning and documentation.
+* **Reliable & Resilient Systems** – Error handling, retries, and fault-tolerant patterns.
+* **Cloud-Native & DevOps-Ready** – Infrastructure as Code, containerization, and observability built in.
+* **CI/CD-Driven Development** – Automated testing, deployment pipelines, and reproducible builds.
+* **Security & Performance Conscious** – Authentication, authorization, caching, and monitoring for production readiness.
+---
 ## 🧠 DSA & Algorithms
 
 I solve DSA problems daily to keep my problem-solving sharp.
